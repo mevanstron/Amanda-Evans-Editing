@@ -8,21 +8,11 @@
   color: white;
 }
 
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
 .App-nav ul {
   margin: 0px;
-
   list-style-type: none;
   overflow: hidden;
   background-image: linear-gradient(#EEE, #B8B8B8);
-
 }
 
 .App-nav ul li {
@@ -36,7 +26,4 @@
 
 .App-nav ul li a:hover, a:active {
   background-image: linear-gradient(#E5DDDB, #fff);
-}
-
-.App-nav ul li a:active {
 }

@@ -1,2 +1,2 @@
-# Amanda-Evans-Editing
+# amanda-evans-editing
 Editing Website for Amanda Evans

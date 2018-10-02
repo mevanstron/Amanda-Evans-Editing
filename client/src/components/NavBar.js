@@ -6,12 +6,12 @@ const NavBar = props => {
     <div className="App-nav">
       <ul>
         <li><Link to="/">Home</Link></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">How It Works</a></li>
-        <li><a href="#">Portfolio</a></li>
-        <li><a href="#">Recommendations</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Blog</a></li>
+        <li><Link to="/about">About</Link></li>
+        <li><Link to="/how_it_works">How It Works</Link></li>
+        <li><Link to="/portfolio">Portfolio</Link></li>
+        <li><Link to="/recommendations">Recommendations</Link></li>
+        <li><Link to="/contact">Contact</Link></li>
+        <li><Link to="/blog">Blog</Link></li>
       </ul>
     </div>
   )

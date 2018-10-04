@@ -41,11 +41,6 @@ const Home = props => {
         <p>{`Your writing is your art. Let's get together and make it sing!`}</p>
       </div>
       <img src={image6} alt="pen" />
-      <div>
-      <img src="#" alt="linked in" />
-      <img src="#" alt="instgram" />
-      <img src="#" alt="facebook" />
-      </div>
     </div>
   )
 }

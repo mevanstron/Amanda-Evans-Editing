@@ -8,6 +8,7 @@ import Portfolio from '../components/Portfolio';
 import Recommendations from '../components/Recommendations';
 import Contact from '../components/Contact';
 import Blog from '../components/Blog';
+import Footer from '../components/Footer';
 
 import '../App.css';
 
@@ -25,6 +26,7 @@ class App extends Component {
           <Route exact path="/recommendations" component={Recommendations}/>
           <Route exact path="/contact" component={Contact}/>
           <Route exact path="/blog" component={Blog}/>
+          <Footer />
         </div>
       </Router>
     );
